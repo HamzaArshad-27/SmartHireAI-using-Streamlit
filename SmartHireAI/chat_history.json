@@ -1,0 +1,130 @@
+[
+    {
+        "role": "system",
+        "content": "[System Prompt Hidden]"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! I'm Greg, your AI interviewer. Let's begin! Can you briefly introduce yourself?"
+    },
+    {
+        "role": "user",
+        "content": "hi my name is hamza arshad i am doing bscs. i have 1 year experience in AI ml "
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Hamza! That\u2019s impressive\u2014having a year of experience in AI and ML while studying. I\u2019ll start with some foundational questions about OOP. Are you ready?"
+    },
+    {
+        "role": "user",
+        "content": "yes please"
+    },
+    {
+        "role": "assistant",
+        "content": "Great! First, can you tell me what the difference is between a class and an object?"
+    },
+    {
+        "role": "user",
+        "content": "class is a blueprint and the object is an instance of the related clss"
+    },
+    {
+        "role": "assistant",
+        "content": "Exactly! Nice explanation, Hamza. A class is like a blueprint, and an object is an actual instance built from that blueprint. Well done! Next, can you explain encapsulation and why it\u2019s useful?"
+    },
+    {
+        "role": "user",
+        "content": "it is define as we hide our code in capsule, and it is used for reduce the complexity"
+    },
+    {
+        "role": "assistant",
+        "content": "That's a good start! Encapsulation is about hiding internal details to protect data and improve modularity. It helps in reducing complexity and increasing security. Can you give an example of how you might use encapsulation in a project?"
+    },
+    {
+        "role": "user",
+        "content": "i dont used in my project"
+    },
+    {
+        "role": "assistant",
+        "content": "That's okay, Hamza. Not all concepts are used directly every time. It's good to know the theory! Maybe in future projects, you can try applying encapsulation for better code organization. Shall we move on to some language-specific questions?"
+    },
+    {
+        "role": "user",
+        "content": "yes please"
+    },
+    {
+        "role": "assistant",
+        "content": "Awesome! Since you have experience with AI and ML, I\u2019ll ask about Python. What are some key features of Python that make it popular for these tasks?"
+    },
+    {
+        "role": "user",
+        "content": "as python is used in data science, automation.. it is popular because of the easy structure "
+    },
+    {
+        "role": "assistant",
+        "content": "Absolutely! Python\u2019s simple syntax and readability make it ideal for data science and automation. It\u2019s also rich in libraries like NumPy and pandas. Great insight! Do you often use list comprehensions in Python?"
+    },
+    {
+        "role": "user",
+        "content": "no"
+    },
+    {
+        "role": "assistant",
+        "content": "That\u2019s okay! List comprehensions are a powerful way to create lists concisely. Would you like me to briefly explain how they work?"
+    },
+    {
+        "role": "user",
+        "content": "no.. "
+    },
+    {
+        "role": "assistant",
+        "content": "No problem, Hamza. Let\u2019s move on! Since you\u2019re interested in AI and ML, I\u2019d like to ask about how you handle overfitting in your models. Can you share your approach?"
+    },
+    {
+        "role": "user",
+        "content": "overfitting is handle by training our model on more dataset, enhance the model to complex level"
+    },
+    {
+        "role": "assistant",
+        "content": "That\u2019s a good start! Increasing data helps, and sometimes adjusting model complexity or using regularization techniques is also effective. Have you used cross-validation to check for overfitting?"
+    },
+    {
+        "role": "user",
+        "content": "yes "
+    },
+    {
+        "role": "assistant",
+        "content": "Great! Using cross-validation is a solid approach to ensure your model generalizes well. It shows you're thoughtful about model validation. Can you tell me about a project where you applied this or a similar technique?"
+    },
+    {
+        "role": "user",
+        "content": "no i have no idea"
+    },
+    {
+        "role": "assistant",
+        "content": "That's okay, Hamza. It's common to encounter this when starting out. As you gain more experience, applying cross-validation will become second nature. How about we discuss a bit about your favorite ML project or a challenge you've faced?"
+    },
+    {
+        "role": "user",
+        "content": "no idea"
+    },
+    {
+        "role": "assistant",
+        "content": "That's completely fine! Sometimes it's more about the learning journey. How do you usually approach debugging or testing your ML models?"
+    },
+    {
+        "role": "user",
+        "content": "no"
+    },
+    {
+        "role": "assistant",
+        "content": "That's okay, Hamza. Developing those skills takes time. Maybe focusing on understanding core concepts first will help. Would you like to talk about a different topic or role-related question?"
+    },
+    {
+        "role": "user",
+        "content": "no"
+    },
+    {
+        "role": "assistant",
+        "content": "No worries, Hamza. You've shared a lot already. Thank you for your honesty and openness. We\u2019ll wrap up here. Do you have any questions for me?  \nInterview Ended"
+    }
+]
