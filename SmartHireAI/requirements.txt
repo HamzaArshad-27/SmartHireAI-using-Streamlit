@@ -1,9 +1,10 @@
-numpy
-pandas
-matplotlib
-seaborn
+streamlit
+openai
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+transformers
+spacy
 scikit-learn
-tensorflow>=2.0
-keras
-jupyter
-tqdm
+pandas
+numpy
+matplotlib
+python-dotenv
